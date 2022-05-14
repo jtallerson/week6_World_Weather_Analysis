@@ -1,0 +1,244 @@
+City_ID,City,Countries,Temp,Humidity,Latitude,Longitude,Hotel Name,Hotel Address
+0,Kavieng,PG,84.94,71,-2.5744,150.7967,Nusa Island Retreat,"Nusa Island Kavieng New Ireland PG 631, Kavieng"
+1,Marshfield,US,75.31,78,44.6689,-90.1718,"Holiday Inn Conference Ctr Marshfield, an IHG Hotel","750 South Central Avenue, Marshfield"
+2,Puerto Ayora,EC,73.54,91,-0.7393,-90.3518,Finch Bay Galapagos Hotel,"Barrio Punta Estrada, Puerto Ayora"
+3,Tevaitoa,PF,80.89,78,-16.7833,-151.5,Hôtel Raiatea Lodge,BP 680 Tumaraa Raiatea
+4,Hilo,US,76.91,76,19.7297,-155.09,Hilo Hawaiian Hotel,"71 Banyan Drive, Hilo"
+5,Goderich,CA,77.32,14,43.7501,-81.7165,Harmony Inn,"242 Bayfield Road, Goderich"
+6,Albany,US,72.0,53,42.6001,-73.9662,,
+7,Oddur,SO,74.5,84,4.1213,43.8894,Banjanay Hotel,"4VCQ+JJM, Xuddur"
+8,Fayaoué,NC,77.36,70,-20.65,166.5333,Chez Dydyce Guesthouse,"BP151 Tribu de Banoutr, 98814"
+9,Vaini,TO,80.76,65,-21.2,-175.2,Keleti Beach Resort,"QQW9+G2M, Ha'ateiho"
+10,Merritt Island,US,72.72,56,28.5392,-80.672,,
+11,Jamestown,US,78.44,12,42.097,-79.2353,Hampton Inn & Suites Jamestown,"4 West Oak Hill Road, Jamestown"
+12,Bandarbeyla,SO,82.24,81,9.4942,50.8122,JABIR HOTEL,"FRX6+26G, Unnamed Road, Bandarbeyla"
+13,Rikitea,PF,76.87,70,-23.1203,-134.9692,People ThankYou,Rikitea
+14,Sabá,HN,83.46,54,15.4667,-86.25,TORROJAMARU,"Olanchito, Elíxir"
+15,Takhatpur,IN,81.23,66,22.15,81.8667,School nigarband,"5V58+CCF, Nigarband"
+16,Avarua,CK,84.25,79,-21.2078,-159.775,Paradise Inn,"Q6VJ+V5C, Ara Tapu, Avarua District"
+17,Quatre Cocos,MU,76.08,81,-20.2078,57.7625,Sunrise Attitude Hotel,"Royal Road, B59"
+18,Biak,ID,77.36,85,-0.9131,122.8766,Penginapan Kim,"3VH7+5P3, Jalan Trans Sulawesi, Biak"
+19,Poum,NC,77.76,69,-20.2333,164.0167,,
+20,Belmonte,BR,74.37,78,-15.8631,-38.8828,Pousada Monte Carmelo O Pão,"Avenida 23 de Maio, 394, Belmonte"
+21,Cockburn Town,TC,80.44,74,21.4612,-71.1419,Osprey Beach Hotel,"1 Duke Street, Cockburn Town"
+22,Mitú,CO,75.15,97,1.1983,-70.1733,,
+23,Waterloo,CA,70.7,21,43.4668,-80.5164,The Walper Hotel,"20 Queen Street South, Kitchener"
+24,Bambous Virieux,MU,73.65,94,-20.3428,57.7575,Casa Tia Villa,"JPXR+XQW, Domaine du Chausser Road, Anse Joncee, Grand Port"
+25,Hamilton,US,82.36,61,39.1834,-84.5333,Six Acres Bed & Breakfast,"5350 Hamilton Avenue, Cincinnati"
+26,Celestún,MX,84.92,67,20.8667,-90.4,Posada Lilia,"12 128B, Benito Juárez, Celestún"
+27,Butaritari,KI,81.27,72,3.0707,172.7902,Isles Sunset Lodge,Kiribati
+28,Saint George,US,74.55,8,37.1041,-113.5841,Best Western Plus Abbey Inn,"1129 South Bluff Street, St. George"
+29,San Policarpo,PH,82.17,82,12.1791,125.5072,Agapita M. Nicart,"Barangay 3, Poblacion, Eastern, San Policarpo"
+30,Atuona,PF,78.55,68,-9.8,-139.0333,Villa Enata,"Domaine Emile Rauzy,Tahauku"
+31,Hobyo,SO,82.15,78,5.3505,48.5268,Iftin hotel hobyo,"Airport road, Hobyo"
+32,Hithadhoo,MV,83.53,76,-0.6,73.0833,Scoop Guest House,"93RP+G5C, Scoop Guest House, S. Hithadhoo - Rep Of Maldives, Addu City"
+33,Matara,LK,80.2,87,5.9485,80.5353,Amaloh Boutique Resort,"36/9, 1st Cross Road, Polhena, Matara"
+34,Arraial do Cabo,BR,71.46,88,-22.9661,-42.0278,Pousada Porto Praia,"Rua Vilas Bôas, 161 - Macedônia, Arraial do Cabo"
+35,Jiwani,PK,82.06,76,25.05,61.7417,Al Mumtaz Transport Jiwani,"2PXW+4VM, Jiwani"
+36,Barinitas,VE,72.88,92,8.7622,-70.4111,Rapsodia EcoTours,"Barinitas, Ctra. Via Agrícola Cacao Pagüey KM 4 Casa S/N Sector El Cacao"
+37,Labuhan,ID,78.94,91,-6.8844,112.2051,DoubleFAG,Sidomukti
+38,Guánica,PR,81.54,76,17.9716,-66.908,Copamarina Beach Resort & Spa,"PR-333 Km 6.5, Guanica"
+39,El Tocuyo,VE,74.79,84,9.7873,-69.7937,HOTEL BOUTIQUE SANTO DOMINGO,"Q6M2+886, El Tocuyo"
+40,Funtua,NG,81.66,50,11.5233,7.3081,Sani Jikan Mallam Hotel,"G8H5+2VJ, Dandame Road, Katsina (Capital City)"
+41,Luganville,VU,80.37,85,-15.5333,167.1667,The Espiritu Hotel,"Main Street, Espiritu Santo"
+42,Nouadhibou,MR,71.58,83,20.931,-17.0347,El Medina,"zone dubai ext.p5 lot 72. BP. 4350, Nouadhibou"
+43,Manado,ID,75.97,94,1.487,124.8455,Aryaduta Hotel,"Jalan Piere Tendean (Boulevard, Wenang Utara"
+44,Nūzvīd,IN,79.86,80,16.7833,80.85,HI-TECH LODGE,"Chinna Gandhi Bomma Centre, Nuzividu"
+45,Isangel,VU,80.71,69,-19.55,169.2667,Tanna Lodge,"C7WJ+WMX, Bethel"
+46,Maceió,BR,78.24,78,-9.6658,-35.7353,Hotel Ponta Verde Maceió,"Avenida Álvaro Otacílio, 2933 - Ponta Verde, Maceió"
+47,Saint-Philippe,RE,72.99,79,-21.3585,55.7679,"Chambres d'hôte ""La Trinité""",12 Rue De La Pompe
+48,Pangoa,PE,74.98,73,-12.1167,-73.0,,
+49,Umluj,SA,82.27,35,25.0213,37.2685,Moon light Furnished Units,"278C+XP4, Tabuk"
+50,Gamba,GA,77.74,92,-2.65,10.0,,
+51,Kanigiri,IN,82.49,58,15.4,79.5167,COMFORT INN,"Kanigiri - Kandukur Road, Kanigiri"
+52,Kieta,PG,84.0,73,-6.2167,155.6333,Uruna Bay Retreat,"RM63+36C, Kieta"
+53,Bengkulu,ID,77.99,85,-3.8004,102.2655,Grage Hotel Bengkulu,"Jalan Nala No.142, Anggut Bawah"
+54,Tiznit Province,MA,75.25,23,29.5833,-9.5,,
+55,Kapaa,US,78.66,75,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort,"650 Aleka Loop, Kapaʻa"
+56,São Filipe,CV,73.22,80,14.8961,-24.4956,Hotel Xaguate,"VGX2+RPP, Sao Filipe, Rua da Posto, Fogo"
+57,Lorengau,PG,84.27,73,-2.0226,147.2712,Lorengau Harbourside Hotel,"X7GC+Q39, Lorengau"
+58,Kahului,US,82.67,62,20.8947,-156.47,Maui Seaside Hotel,"100 West Kaahumanu Avenue, Kahului"
+59,Sola,VU,80.96,82,-13.8833,167.55,Leumerus Bungalows,"Vanua Lava, Sola"
+60,Sal Rei,CV,70.97,86,16.1833,-22.9167,Marine Club Beach Resort,Praia da Cruz Sal Rel Boa Vista
+61,Manta,EC,74.98,83,-0.95,-80.7333,Balandra Hotel,"Avenida 7 y, Calle 20, Manta"
+62,Itacarambi,BR,71.82,35,-15.1022,-44.0919,POUSADA CAMALEÃO,"Rua 31 Dezembro, 263 - Centro, Itacarambi"
+63,Paracuru,BR,81.1,88,-3.41,-39.0306,Hotel Vento Brasil,"R. Ormezinda Sampaio, 240 - Centro, Paracuru"
+64,George Town,MY,80.26,88,5.4112,100.3354,Cititel Penang,"66, Jalan Penang, George Town"
+65,Pakse,LA,75.85,87,15.1167,105.7833,Champasak Palace Hotel,"Highway 13, Pakxé"
+66,Hong Kong,HK,77.59,95,22.2855,114.1577,Mini Central,"38 Ice House Street, Central"
+67,Faanui,PF,82.27,73,-16.4833,-151.75,Bora-Bora Pearl Beach Resort & Spa,"Vaitape, Bora-Bora"
+68,Mahébourg,MU,73.69,94,-20.4081,57.7,Shandrani Beachcomber Resort & Spa,Mahebourg
+69,Dingle,PH,81.07,79,10.9995,122.6711,SEGAYA PROPERTY,"8 Dacudao Street, Dingle"
+70,Paka,MY,76.93,94,4.6374,103.4368,RUMBIA RESORT VILLA Paka Terengganu,"Lot 3573, Paka"
+71,Polewali,ID,78.69,87,-3.4324,119.3435,Lilianto Hotel,Jalan Poros Majene - Mamuju No.54-G
+72,Tezu,IN,70.72,97,27.9167,96.1667,Circuit House,"Tezu, NH 52, Tezu"
+73,Vitorino Freire,BR,73.71,96,-4.0667,-45.1667,Francelina,"WR87+72, Olho d'Água das Cunhãs"
+74,Harper,LR,80.08,83,4.375,-7.7169,Screensaver,"97FJ+V5F, Harper"
+75,Jilotzingo,MX,84.88,18,19.87,-99.0578,iglesia de Cristo El Salvador,"Ejército del Trabajo, Villas de la Laguna, Santa María Cuevas"
+76,Puerto Lleras,CO,75.87,91,3.0223,-73.4044,,
+77,Santo Tomas,PH,82.51,74,14.1079,121.1414,Microtel by Wyndham Batangas,"First Philippine Industrial Pk, Santo Tomas"
+78,Robertsport,LR,81.91,84,6.7533,-11.3686,Kwepunha Retreat,"QJ4H+R52, Robertsport"
+79,Duartina,BR,78.15,74,-22.4144,-49.4039,Hotel Mattos Guimaro,"Rua Sete de Setembro, 273, Duartina"
+80,Coruripe,BR,75.52,86,-10.1256,-36.1756,Pousada e Hotel Litoral Sul,"Praça Doutor Lima Castro, 79 - Centro, Coruripe"
+81,Zabid,YE,84.56,69,14.1951,43.3152,مغرب التريبه,"58WC+QGW, 234, زبيد،"
+82,Canindé de São Francisco,BR,74.86,78,-9.66,-37.7894,Xingo Parque Hotel,"Serra do Chapéu de Couro, S/N Em frente a Piranhas - AL, Canindé de São Francisco"
+83,Puro,PH,81.79,76,12.4841,123.3827,,
+84,Garissa,KE,77.86,79,-0.4536,39.6401,Sharif Plaza Hotel,Garissa
+85,Caravelas,BR,72.25,82,-17.7125,-39.2481,Pousada dos Navegantes,"Rua das Palmeiras, 45, Caravelas"
+86,Souillac,MU,73.78,94,-20.5167,57.5167,Shanti Maurice Resort & Spa,"Coastal Road, Saint Felix"
+87,Najrān,SA,79.45,23,17.4924,44.1277,محمد هادي ال فطيح,"F4QH+XG8, Najran"
+88,Conde,BR,76.46,94,-7.2597,-34.9075,Pousada Beija Flor,Rua Maria Amélia - s/n
+89,Ixtapa,MX,81.63,69,20.7,-105.2,hotel la terminal,"Avenida Las Palmas 193, Parque Las Palmas, Puerto Vallarta"
+90,Basoko,CD,72.99,91,1.2391,23.616,Jackyna Hotel,"6JH3+FV8, Basoko"
+91,Kisanga,TZ,70.92,94,-7.4362,37.7034,,
+92,Sechura,PE,72.16,65,-5.5569,-80.8222,Hospedaje Costa Bella,"C5RJ+GHR, Celle, Restauración, Sechura"
+93,Alofi,NU,80.49,74,-19.0595,-169.9187,Taloa Heights,"#1, Halamahaga Road, Alofi"
+94,Naze,JP,70.72,69,28.3667,129.4833,Shishime Hotel,"18-３１ Nazekohamachō, Amami"
+95,Bathsheba,BB,81.21,78,13.2167,-59.5167,Atlantis Hotel,"6F6P+C8W, Foster Hall"
+96,Borazjan,IR,81.52,21,29.2666,51.2159,شرکت زرمهریار شعبه سوم,Borazjan
+97,Salalah,OM,82.49,74,17.0151,54.0924,"HAMDAN PLAZA HOTEL SALALAH, an HTG Hotel",Salalah
+98,Buala,SB,81.95,80,-8.145,159.5921,Maringe Lagoon Lodge,"VH5Q+QC2, Fupukuna"
+99,Nísia Floresta,BR,79.18,85,-6.0911,-35.2086,Rancho Crepusculo,"BR 101 KM 118 SAO JOSE DE MIPIBU RN 01, SÃO JOSE DE MIPIBU RN"
+100,Rodrigues Alves,BR,82.6,97,-7.738,-72.6509,Pousada Aconchego,"Avenida Presidente Vargas, 262 - 380, Rodrigues Alves"
+101,Ubari,LY,77.02,16,26.5921,12.7805,فندق أوباري,"HQW8+MCG, Unnamed Road, أوباري،, Ubari"
+102,Bandundu Province,CD,74.68,91,-3.3167,17.3667,Coja Color,"Avenue Kibaya 6 Bis, Bandundu Region"
+103,Bonthe,SL,80.76,86,7.5264,-12.505,Bonthe Holiday Village,"GFGX+7Q3, Bonthe"
+104,Show Low,US,73.9,13,34.2542,-110.0298,Hampton Inn & Suites Show Low-Pinetop,"1501 East Woolford Road, Show Low"
+105,Meulaboh,ID,77.34,90,4.1363,96.1285,Kost Pria,"544G+M9F, Lorong Panda, Drien Rampak"
+106,Kulhudhuffushi,MV,83.73,77,6.6221,73.07,Haajy Guest House 1,"J3CC+538, Kulhudhuffushi"
+107,Moundou,TD,83.7,49,8.5667,16.0833,Planete Life,"H38J+4QM, Mbombaya District, Moundou"
+108,Bourail,NC,76.41,59,-21.5667,165.4833,Motel Allamanda,"CFMV+QRP, Bourail"
+109,Mathbaria,BD,77.47,90,22.2876,89.9593,Shikdar Hotel,"7XQ5+3FC, Unnamed Road"
+110,Itarema,BR,76.17,87,-2.9248,-39.9167,"Sea Lounge! Bar, Club & Restaurant","Ilha do Guajiru - Via Costeira, 21 - Praia da Barra, Itarema"
+111,Sarangani,PH,80.62,83,5.4033,125.4636,Ballistic Islet,"CC8H+5QH, Municipality of Sarangani"
+112,Saint Anthony,US,78.37,26,45.0205,-93.218,Holiday Inn Express Roseville-St. Paul,"2715 Long Lake Road, Roseville"
+113,Porto Walter,BR,75.09,97,-8.2686,-72.7439,Secretaria de saúde,"Rua Mamede Cameli, 600, Porto Walter"
+114,Vila do Maio,CV,74.19,85,15.1333,-23.2167,Hotel Marilu,"4QPQ+X9C, Cidade de Porto Inglês Maio Ilha do, Vila do Maio"
+115,Mossamedes,AO,74.52,57,-15.1961,12.1522,Hotel Chik Chik Namibe,Namibe
+116,Riyadh,SA,82.54,14,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel","King Saud Road, Riyadh"
+117,Deogarh,IN,78.42,81,21.5333,84.7333,Amit Henej House,"Amit Henej, Deogarh"
+118,Mitsamiouli,KM,79.52,69,-11.3847,43.2844,Foyer ADM,"J75Q+GJJ, Mitsamiouli Djao, Mitsamiouli"
+119,Crato,BR,80.31,74,-7.2342,-39.4094,Flats Grangeiro,"Avenida Pedro Felício Cavalcante, 2422 - Ossian Araripe (Caixa D'Água), Crato"
+120,Esna,EG,80.62,17,25.2934,32.554,Orient Star Dahabyia Isna 05 Nights Each Sunday,"7HQ5+6RC, مرسى دهبية, Esna"
+121,Vanimo,PG,82.09,81,-2.6741,141.3028,Vahmoneh Lodge Vanimo,"87FX+PJQ, Vanimo"
+122,Champerico,GT,84.74,71,14.3,-91.9167,"Hotel y restaurante ""El Diamante""","oscaraudong@gmail.com, Champerico, Retalhuleu"
+123,Palmas Bellas,PA,81.0,78,9.2319,-80.0867,Antigua Residencia Galván,"6WQ8+F2P, Palmas Bellas"
+124,Pundaguitan,PH,81.14,79,6.3711,126.1689,Leonardo Family Beach House 1,"Talisay Beach, Governor Generoso"
+125,Panama City,PA,80.78,90,8.9936,-79.5197,Trump International Hotel & Tower Panama,Panama City
+126,Noumea,NC,77.0,99,-22.2763,166.4572,Hôtel Le Lagon,"149 route de l'Anse Vata, Nouméa"
+127,Khuzdar,PK,81.68,19,27.7384,66.6434,jhalwan Rent A Car Compny Moola Chotok,"PJRR+X97, Khuzdar"
+128,Touros,BR,77.41,81,-5.1989,-35.4608,INN NEW HORIZON,"Rua do Chafariz, 10 - Conjunto Novo Horizonte, Touros"
+129,Tamayo,DO,82.11,74,18.3947,-71.2029,La perla Del Caribe,"calle duarte №13, Tamayo"
+130,Hambantota,LK,81.19,80,6.1241,81.1185,Bungalow 63,"No 63 Barrak Street, Hambantota"
+131,Rome,US,75.34,23,43.2128,-75.4557,Wingate By Wyndham Rome,"90 Dart Circle, Rome"
+132,Pyapon,MM,77.61,89,16.2833,95.6833,Aung Naing Thu Motel,"No(3/76) First Road Net, Shin naung Street, ဖျာပုံ"
+133,Isla Mujeres,MX,84.16,71,21.2311,-86.731,Hotel La Joya Isla Mujeres,Secc. F Mz 43 L20 Carretera Garrafon Fracc Mar Turquesa
+134,Wanning,CN,79.03,92,18.8003,110.3967,Paradise Hotel,"Q9WM+JPF, 万城镇人民中街, Ren Min Zhong Lu, Wan Ning Shi"
+135,Doha,QA,82.35,34,25.2867,51.5333,Movenpick Hotel Doha,"Corniche Promenade, Doha"
+136,Kribi,CM,78.49,88,2.95,9.9167,La Grace Hôtel,"WWPC+6FC, Elabé, Kribi"
+137,Verchères,CA,77.14,20,45.7834,-73.3492,Motel Derfal,"1435 Rue Notre Dame, Repentigny"
+138,Grand Gaube,MU,76.37,79,-20.0064,57.6608,Veranda Paul et Virginie Hotel & Spa,"MU, B14, Grand Gaube"
+139,Mahajanga,MG,73.42,83,-15.7167,46.3167,Restaurant Greedy Coco Lodge Majunga,"Avenue De France, Mahajanga"
+140,Broome,US,75.58,18,42.2506,-75.833,Chenango Valley State Park,"153 State Park Rd, Chenango Forks"
+141,Merauke,ID,80.91,85,-8.4667,140.3333,,
+142,Pedernales,DO,81.86,70,18.0384,-71.744,Hotel Costa Marina,"calle Cacique Enriquillo 16 Villa de Mar, Pedernales"
+143,Tadine,NC,74.43,70,-21.55,167.8833,,
+144,Sokoni,TZ,81.07,74,-6.4333,39.55,Ujamaa Beach Resort,"P.O.Box 4022, Makunduchi"
+145,San Carlos,VE,76.77,89,9.6612,-68.5827,Hotel Paternopoli,"Troncal 005 2201, San Carlos"
+146,Ndélé,CF,81.86,48,8.4109,20.6473,,
+147,Berbera,SO,82.65,74,10.4396,45.0143,IBCO REAL ESTATE PROPERTY,"C2Q7+7VC, Berbera"
+148,Bambanglipuro,ID,78.13,90,-7.95,110.2833,Puri Brata,"27C9+RGF, Jalan Samas Kuwaru, Kalimundu, Gadingharjo"
+149,Basco,PH,83.84,72,20.4487,121.9702,Nathaniel's Lodge,"Nunez Street, Barangay Kaychanarianan, Basco"
+150,Gizo Government Station,SB,84.24,74,-8.103,156.8419,Imagination Island,"WVC6+5Q9, Imagination Island, Gizo"
+151,San Cristobal,VE,77.18,99,7.7669,-72.225,Pirineos,"Avenida España, San Cristóbal"
+152,Korla,CN,72.48,27,41.7597,86.1469,Gulisitan Hotel,"Q43V+6W8, 团结路, Ku Er Le Shi, Ba Yin Guo Leng Meng Gu Zi Zhi Zhou"
+153,Avera,US,79.95,40,33.194,-82.5271,,
+154,Qeshm,IR,75.07,78,26.9581,56.2719,Qeshm Kavan Hotel,"Qeshm, X74C+RXG, قشم – خیابان ولیعصر چهارراه رسالت جنب کوچه میلاد - هتل کاوان, Vali Asr Boulevard"
+155,Byron Bay,AU,71.49,75,-28.65,153.6167,Backpackers Inn,"29 Shirley Street, Byron Bay"
+156,Namatanai,PG,84.42,69,-3.6667,152.4333,Seagulls Inn Namatani,"8CMQ+Q6H, Boluminski Highway, Namatanai"
+157,Machilipatnam,IN,81.32,85,16.1667,81.1333,R&B Bungalow,India
+158,Cap Malheureux,MU,76.46,79,-19.9842,57.6142,Pereybere Hotel & Spa,Grand Baie
+159,São José da Coroa Grande,BR,77.23,80,-8.8978,-35.1478,Crôa Mares Hotel,"AL-101, KM 138 - N°80 Praia de Peroba, Maragogi"
+160,Kavaratti,IN,84.96,68,10.5669,72.642,Hotels in Lakshadweep Islands,"HJGQ+H9J, Kavaratti"
+161,Chapais,CA,74.98,31,49.7834,-74.8492,Hôtel Opémiska,"101 Boulevard Springer, Chapais"
+162,Rāzole,IN,80.42,85,16.4833,81.8333,Sterling Palavelli Godavari,"Yalamanchili lanka, Near Palakollu, Dindi"
+163,Kalutara,LK,81.52,85,6.5831,79.9593,Tangerine Beach Hotel,"De Abrew Rd, Waskaduwa, KT1 2CA"
+164,Sur,OM,83.17,49,22.5667,59.5289,Sur Plaza Hotel,Oman
+165,Doiwāla,IN,77.54,50,30.1833,78.1167,Deluxe Room Spacious and Stylish,"55M3+J7Q, DPS Road, Kanharwala, Bhaniyawala near Jollygrant Airport Dehradun ., Bhania Wala"
+166,Plaridel,PH,82.09,67,14.8872,120.8572,St. Agatha Resort,Saint Agatha Homes
+167,Kudahuvadhoo,MV,83.77,77,2.6708,72.8944,Niyama Private Islands Maldives,"Olhuveli, Kudahuvadhoo Dhaalu Atoll"
+168,Miranda,CO,84.33,94,3.2499,-76.2281,unidiversidad organica la utopia,57
+169,Toamasina,MG,77.0,94,-18.1667,49.3833,Hotel H1,"5 Rue Guynemer, Toamasina"
+170,Alyangula,AU,78.67,89,-13.8483,136.4192,Groote Eylandt Lodge,"Groote Eylandt, Gulf of Carpentaria, 1 Bougainvillea Drive, Alyangula"
+171,Ambulu,ID,77.11,90,-8.345,113.6058,Hotel Ambulu Jember,"Jalan Manggar No.200, Tegalsari, Tegalsari"
+172,Ibadan,NG,74.3,97,7.3878,3.8964,Orchard Hotel,"Onireke Quarters Road, Ibadan"
+173,Plaster Rock,CA,72.12,53,46.9065,-67.39,Settler's Inn and Motel,"141 Main Street, Plaster Rock"
+174,Sungai Raya,ID,79.66,87,0.7,108.9,Rumah Kuku Moimoi Shelly,PV6Q+5X
+175,Nuquí,CO,79.3,88,5.7125,-77.2708,Hotel Nuquimar,Avenida La Playa
+176,Labuan,MY,80.1,94,5.2767,115.2417,Tiara Labuan Hotel,"Jalan Tanjung Batu, Labuan"
+177,Tabuk,PH,78.19,77,17.4189,121.4443,Golden Berries Hotel and Convention,Tabuk
+178,Grand-Santi,GF,73.15,99,4.25,-54.3833,Hotel La Villa Couacou,Grand-Santi
+179,Port Keats,AU,78.21,51,-14.25,129.55,TDC Village (Hundred Man Camp),"20 Kanarlda Street, Wadeye"
+180,Sinnamary,GF,77.47,87,5.3833,-52.95,ALETHEIA Appartement Sinnamary,92GX+28P
+181,Kousséri,CM,84.16,51,12.0769,15.0306,Le Pilotis,"44 rue 5032 Quartier Paris-Congo 6ème arrondissement, NʼDjamena"
+182,Bac Lieu,VN,81.77,83,9.285,105.7244,Khách sạn Sài Gòn Bạc Liêu,"2-4-6 Hoàng Văn Thụ, Phường 3, Bạc Liêu"
+183,Samarai,PG,83.61,79,-10.6167,150.6667,Nuli Sapi,"9JFW+J2W, Rogeia Island, Kasabanalua"
+184,Caraballeda,VE,79.77,87,10.6112,-66.8522,Hotel 15 Letras,"Avenida La Playa, Macuto"
+185,Juba,SS,74.25,78,4.8517,31.5825,ROYAL PALACE HOTEL - JUBA,"VH5C+QG8, Konyyonyo, Riverside Plot No., Juba"
+186,Epe,NG,77.74,89,6.5841,3.9834,MAGVILLE HOTEL,"2, payinegba avenue, behind local government, old palace Epe local government, Lagos"
+187,Upata,VE,84.2,59,8.0086,-62.3989,Posada Villa Nela,"2J2C+293, Troncal-10, Upata"
+188,Vila Velha,BR,75.15,78,-20.3297,-40.2925,Hotel Vitória Palace,"Rua José Teixeira, 323 - Praia do Canto, Vitória"
+189,Lhokseumawe,ID,77.68,88,5.1801,97.1507,OYO 3278 Penginapan Alfajri,"Jalan Medan No.15, Panggoi"
+190,Villa Bruzual,VE,76.06,88,9.3328,-69.1208,hotel italia,"8VMJ+32J, Avenida 4, Turen"
+191,Cabedelo,BR,77.67,82,-6.9811,-34.8339,Hotel Pigalle,"BR-230, 13 - Vila Sao Joao, Cabedelo"
+192,Buraidah,SA,82.85,16,26.326,43.975,Mövenpick Qassim,"King Khaled Ibn Abd Al Aziz, Buraydah"
+193,Banda Aceh,ID,81.34,77,5.5577,95.3222,OYO 884 Rumoh PMI Hotel,Jalan Nyak Adam Kamil II No.1
+194,Kollam,IN,80.89,82,8.8833,76.6,The Raviz Ashtamudi,"Thevally Bridge, Kollam - Elamballoor Road, Palace Nagar, Thevally, Mathilil"
+195,Limbang,MY,78.06,91,4.75,115.0,Purnama Hotel,"Jalan Buangsiol, Pekan Limbang, Limbang"
+196,Kapit,MY,74.93,94,2.0167,112.9333,Hotel Meligai Kapit,"Lot 334, Jalan Airport, 96800,, Kapit"
+197,Nizwá,OM,80.65,30,22.9333,57.5333,Orient Apartments,Al Wakalat Street behind Oman Oil Nizwa OM
+198,Tarakan,ID,80.1,89,3.3,117.6333,RedDoorz Syariah near Taman Berlabuh Tarakan,"Jalan Yos Sudarso No.7, Jembatan Besi"
+199,Lincoln,US,84.52,51,40.8,-96.667,Courtyard by Marriott Lincoln Downtown/Haymarket,"808 R Street, Lincoln"
+200,Vinh,VN,79.77,80,18.6667,105.6667,Vuong Hoan 2,"MMPR+FQ5, Đường Lê Nin, Hưng Phúc, Thành phố Vinh"
+201,Mahibadhoo,MV,83.26,76,3.7833,72.9667,Omadhoo Inn,"QXR7+CGM, Dhigu Magu, Omadhoo"
+202,Nhulunbuy,AU,81.21,89,-12.2333,136.7667,East Arnhem Real Estate,"6 Traeger Close, Nhulunbuy"
+203,Garachiné,PA,81.27,82,8.0647,-78.3628,,
+204,Amberley,US,81.52,58,39.2048,-84.428,Days Inn & Suites by Wyndham Cincinnati,"5410 Ridge Avenue, Cincinnati"
+205,Arecibo,PR,83.55,63,18.4724,-66.7157,Atlantic Sand Oasis,"Carr. 681 K.m 2.2 Bo.Islote, Arecibo"
+206,Takoradze,GH,81.03,83,4.8845,-1.7554,Raybow International Hotel,"906 Beach Road, Residential Area, Sekondi-Takoradi"
+207,Ambilobe,MG,72.12,95,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe,"hôtel Restaurant Laidama, Ambilobe"
+208,Kloulklubed,PW,77.97,91,7.0419,134.2556,Storyboard Beach Resort,"27Q3+C7Q, Klouklubed"
+209,Buin,CL,70.93,49,-33.7333,-70.75,Paihuen,"La Obra 780, Buin"
+210,Gushikawa,JP,76.69,90,26.3544,127.8686,Kirari Guest House,"1811-3 Yonashiroteruma, Uruma"
+211,Chabahar,IR,81.63,75,25.2919,60.643,هتل گدروشیا,"Chah Bahar, 7JVP+3R9, بلوار امام خمینی"
+212,Camocim,BR,76.84,88,-2.9022,-40.8411,Ilha Praia Hotel,"Avenida Beira Mar, 2081 - Centro, Camocim"
+213,Tabou,CI,80.06,83,4.423,-7.3528,hotêl doufoulougou,"CJCV+8J8, Tabou"
+214,Kingman,US,73.76,1,35.1894,-114.053,Rodeway Inn Kingman Route 66,"1400 East Andy Devine Avenue, Kingman"
+215,San Andrés,CO,84.22,74,12.5847,-81.7006,Hotel Arena Blanca,Carrera 1 #2-1
+216,Puerto Colombia,CO,82.49,81,10.9878,-74.9547,Hotel El Emigrante,Calle 2 #3-157
+217,Sambava,MG,72.99,93,-14.2667,50.1667,Melrose,"P5W5+G4J, Sambava"
+218,Moratuwa,LK,84.22,85,6.773,79.8816,Sa Mansion By Yoho,"No 42A,MJC Fernando Road, Moratuwa"
+219,Keti Bandar,PK,81.52,79,24.1447,67.4497,Haji laloo memon house,"4FV2+7P3, Keti Bandar"
+220,Adlay,PH,80.13,83,9.4097,125.8975,,
+221,Inongo,CD,73.04,91,-1.95,18.2667,Hotel Du Lac,"3738+9JC, Inongo"
+222,Jertih,MY,76.86,94,5.7336,102.4897,One Utama Hotel,"Kampung Tanduk, Jerteh"
+223,Marabu,MY,78.94,94,4.4148,114.0089,"Mega Hotel, Miri","907, Jalan Merbau, Miri"
+224,Morondava,MG,70.52,75,-20.2833,44.2833,La Case Bambou,"P729+RQH, Morondava"
+225,Kinshasa,CD,75.58,88,-4.3246,15.3215,Star Hotel II,"Avenue Des Huileries Avenue Kalembelembe , no135, Kinshasa"
+226,Dhidhdhoo,MV,83.88,76,6.8833,73.1,Dhidhoo beach,"V4Q4+WX4, Nikagas Magu, Dhidhdhoo"
+227,Dumai,ID,74.05,98,1.6833,101.45,Grand Zuri Dumai,"Jalan Jendral Sudirman No.88, Bintan"
+228,São João de Pirabas,BR,75.04,90,-0.7747,-47.1772,POUSADA SOL E MAR,"Travessa São Mateus, 217, São João de Pirabas"
+229,Porto-Novo,BJ,84.02,82,6.4965,2.6036,Tour Eiffel Hotel Benin,"B.P. 1946 COTONOU, BENIN, Porto-Novo"
+230,Muhafazat Lahij,YE,81.12,60,13.1667,44.5833,,
+231,Sittwe,MM,76.6,93,20.15,92.9,Hotel Memory,"19, Akaut Yone Street, Kyae Oin Gyi Quarter, Sittwe"
+232,Zaida,PK,80.26,31,34.0603,72.4678,Al-Jannat Garments and Boutique Zaida.,"Ayoub market zaida, Zaida"
+233,Jacareacanga,BR,77.9,82,-6.2222,-57.7528,Casa do Ian😎,"Travessa Tenente Fernandes, Jacareacanga"
+234,Port Blair,IN,80.64,94,11.6667,92.75,"Welcomhotel By ITC Hotels, Bay Island, Port Blair","Marine Hill, Port Blair"
+235,Olinda,BR,82.13,69,-8.0089,-34.8553,Flat Quatro Rodas Olinda,"Avenida Doutor José Augusto Moreira, 2200 - Casa Caiada, Olinda"
+236,Puerto Maldonado,PE,84.6,74,-12.6,-69.1833,Wasai Hotel,"Jr. Billighurst s/n, Puerto Maldonado"
+237,Ugoofaaru,MV,83.71,78,5.6667,73.0,Ungoofaaru Inn,"M2CH+8HH, Haveeree Hingun, Ungoofaaru"
+238,Palauig,PH,83.73,65,15.435,119.9045,Alperi Botique Resort,"CWQ5+GWR, Mendoza Street, Palauig"
+239,Clarksburg,US,79.25,19,39.2807,-80.3445,Greenbrier Motel & Restaurant,"200 Buckhannon Pike, Clarksburg"
+240,Porto Belo,BR,72.12,89,-27.1578,-48.5531,Costa Verde Beach Hotel,"Avenida Leopoldo Zarling, 1612 - Bombas, Bombinhas"
+241,Brus Laguna,HN,82.26,75,15.75,-84.4833,,
+242,Bitung,ID,76.05,84,1.4451,125.1824,K2 Lembeh,"C6QG+H44, Kelapa Dua, Lembeh Selatan Lembeh Island"
